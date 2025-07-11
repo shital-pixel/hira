@@ -73,6 +73,3 @@
 # #escape sequence character
 # text="My name is Hira \n\tand \n i am 20 years old"
 # print(text)
-
-
-
