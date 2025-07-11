@@ -1,4 +1,4 @@
-writr a program to detect double spaces in a string.
+# writr a program to detect double spaces in a string.
 text = input ("enter a string ")
 if " " in text:
     print("double space detected")
@@ -7,7 +7,7 @@ else:
 
 
 
-write a program to format the following letter using escape sequence character
+# write a program to format the following letter using escape sequence character
 #letter ="Dear Students, This python course is going well . Thank you"
 letter = "Dear Students,\nThis python course is going well.\nThank you"
 print(letter)
